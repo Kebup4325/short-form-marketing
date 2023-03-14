@@ -63,7 +63,7 @@ export default function Home() {
             <div className="flex-col w-full  sm:text-center  ">
               <form action="https://formsubmit.co/businnesakif@outlook.com" method="POST">
                 <input type="hidden" name="_captcha" value="false" />
-                <input type="hidden" name="_next" value="https://shortformmarketing.vercel.app/" />
+                <input type="hidden" name="_next" value="https://kebup4325.github.io/short-form-marketing/" />
                 <input
                   type="email"
                   name="email"
